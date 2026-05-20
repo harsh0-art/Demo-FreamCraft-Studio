@@ -1,0 +1,6 @@
+{
+  "name": "FrameCraft Studio",
+  "description": "Premium photography and videography portfolio for weddings, pre-wedding shoots, and brand events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
